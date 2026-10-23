@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.mypy_cache/
+venv1/
+.venv/
+venv/
+*.tmp
+.env
+.vscode/
