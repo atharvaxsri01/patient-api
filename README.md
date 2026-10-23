@@ -27,7 +27,7 @@ patient-api/
 
 ## Run locally
 ```bash
-git clone https://github.com/<your-username>/patient-api.git
+git clone https://github.com/atharvaxsri01/patient-api.git
 cd patient-api
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
@@ -87,4 +87,4 @@ Response:
 ## Author
 Atharva Srivastava
 - LinkedIn: [linkedin.com/in/atharva-srivastava-848b21385](https://linkedin.com/in/atharva-srivastava-848b21385)
-- GitHub: [github.com/<your-username>](https://github.com/<your-username>)
+- GitHub: [github.com/atharvaxsri01](https://github.com/atharvaxsri01)
